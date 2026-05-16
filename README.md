@@ -2,6 +2,8 @@
 
 > **Persistent memory is not a feature. It is safety infrastructure.**
 
+<sub>*This is the GitHub profile README — a 30-second front door. For the full research map, see the [Loriens_Library](https://github.com/LoriensLibrary/Loriens_Library) index repo.*</sub>
+
 Independent AI safety research and applied systems by **Angela Reinhold** — founder of Lorien's Library LLC, focused on **provenance-aware persistent memory for human–AI interaction**. A running deployed system (CAMA), eleven DOI-registered preprints, a published dataset, and a portfolio prototype demonstrating CAMA principles end-to-end. The thesis: stateful LLM systems become safety-critical the moment they remember anything, and the discipline for *how* they remember has to be designed in — not bolted on.
 
 [Website](https://lorienslibrary.netlify.app) · [ORCID 0009-0005-5803-8401](https://orcid.org/0009-0005-5803-8401) · [Dataset on HuggingFace](https://huggingface.co/datasets/LoriensLibrary/cama-continuity-burden) · [Live prototype](https://telos-kalos.vercel.app)
