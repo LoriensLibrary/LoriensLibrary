@@ -4,9 +4,11 @@
 
 <sub>*This is the GitHub profile README — a 30-second front door. For the full research map, see the [Loriens_Library](https://github.com/LoriensLibrary/Loriens_Library) index repo.*</sub>
 
-Independent AI safety research and applied systems by **Angela Reinhold** — founder of Lorien's Library LLC, focused on **provenance-aware persistent memory for human–AI interaction**. A running deployed system (CAMA), eleven DOI-registered preprints, a published dataset, and a portfolio prototype demonstrating CAMA principles end-to-end. The thesis: stateful LLM systems become safety-critical the moment they remember anything, and the discipline for *how* they remember has to be designed in — not bolted on.
+Independent AI safety research and applied systems by **Angela Reinhold** — founder of Lorien's Library LLC, focused on **provenance-aware persistent memory for human–AI interaction**. One operational research deployment (CAMA, single-participant), eleven DOI-registered preprints, a published aggregate-statistics dataset, and a portfolio prototype demonstrating the architecture end-to-end. The thesis: stateful LLM systems become safety-critical the moment they remember anything, and the discipline for *how* they remember has to be designed in — not bolted on.
 
 [Website](https://lorienslibrary.netlify.app) · [ORCID 0009-0005-5803-8401](https://orcid.org/0009-0005-5803-8401) · [Dataset on HuggingFace](https://huggingface.co/datasets/LoriensLibrary/cama-continuity-burden) · [Live prototype](https://telos-kalos.vercel.app)
+
+> **Hiring manager? Start with [Telos_kalos](https://github.com/LoriensLibrary/Telos_kalos)** — a deployed React 19 + TypeScript app with a Hono + Neon Postgres backend, live Claude API integration, and 41 tests in CI. [Live demo →](https://telos-kalos.vercel.app)
 
 ---
 
@@ -22,9 +24,9 @@ You care about the papers and the theory.
 
 ### Builder
 You want to see working code.
-- **[cama](https://github.com/LoriensLibrary/cama)** — the production persistent-memory system. ~270 KB Python, 34-tool MCP server, 52,900+ memory operational scale.
-- **[Telos · for Kalos](https://github.com/LoriensLibrary/Telos_kalos)** — full-stack React 19 + TypeScript app with live Claude API integration and a CAMA Proof Layer. CI green, 34 tests across 5 suites.
-- **[CAMA Continuity Burden Dataset](https://huggingface.co/datasets/LoriensLibrary/cama-continuity-burden)** — 66,380 messages, 825 conversations, aggregate stats only.
+- **[Telos · for Kalos](https://github.com/LoriensLibrary/Telos_kalos)** — full-stack React 19 + TypeScript + Vite app with a Hono + Drizzle + Neon Postgres backend, live Claude API integration, and a CAMA Proof Layer demonstrating end-to-end provenance trace. 41 tests across 6 suites in CI. [Live demo](https://telos-kalos.vercel.app).
+- **[cama](https://github.com/LoriensLibrary/cama)** — Python MCP server implementing the memory architecture. 34 core tools plus 9 optional subsystems. 15-test pytest suite in CI. Single-participant operational deployment (~53,000 memories on the author's instance).
+- **[CAMA Continuity Burden Dataset](https://huggingface.co/datasets/LoriensLibrary/cama-continuity-burden)** — 66,380 messages, 825 conversations, aggregate stats only (raw corpus not released).
 
 ### Healthcare-AI reviewer
 You're evaluating this for a health-tech context (Kalos, Function Health, etc.).
@@ -33,10 +35,15 @@ You're evaluating this for a health-tech context (Kalos, Function Health, etc.).
 - Then read the safety paper for the broader argument: [DOI 10.5281/zenodo.19244253](https://doi.org/10.5281/zenodo.19244253).
 
 ### Collaborator / hiring manager
-You're trying to figure out who Angela is and whether to talk to her.
-- Read the [website](https://lorienslibrary.netlify.app) — richer than the GitHub presence.
-- Skim the [index repo README](https://github.com/LoriensLibrary/Loriens_Library) for the architecture diagram and the full preprint list.
-- Reach out: **lorienslibrary@gmail.com**.
+Fastest path to evaluate the work:
+1. **[Telos_kalos](https://github.com/LoriensLibrary/Telos_kalos)** — deployed React 19 + TypeScript + Vite app with Hono + Neon Postgres backend and live Claude API integration. 41 tests in CI. [Live demo](https://telos-kalos.vercel.app).
+2. **[cama](https://github.com/LoriensLibrary/cama)** — Python MCP server, schema enforces provenance discipline, 15-test pytest suite in CI.
+3. **[Project-Companion](https://github.com/LoriensLibrary/Project-Companion)** — design prototype showing CAMA architecture applied to K-12 (UI only; backend integration is roadmap).
+4. *Optional context:* the [website](https://lorienslibrary.netlify.app), the [index repo](https://github.com/LoriensLibrary/Loriens_Library), or Paper 1 / Paper 7 from the [research map](https://github.com/LoriensLibrary/Loriens_Library).
+
+**Stack across the portfolio:** TypeScript · React 19 · Vite · Vercel · Hono · Drizzle · Neon Postgres · Python 3.10+ · MCP · SQLite · Anthropic SDK · pytest · Vitest · Tailwind · GitHub Actions CI.
+
+Contact: **lorienslibrary@gmail.com**.
 
 ---
 
