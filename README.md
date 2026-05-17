@@ -10,7 +10,7 @@ Independent AI safety research and applied systems by **Angela Reinhold** — fo
 
 > **Hiring manager? Start with [Telos_kalos](https://github.com/LoriensLibrary/Telos_kalos)** — a deployed React 19 + TypeScript app with a Hono + Neon Postgres backend, live Claude API integration, and 42 tests in CI. [Live demo →](https://telos-kalos.vercel.app)
 >
-> **Currently seeking senior engineering / AI safety roles** — full-time, remote-first. Healthcare AI (Kalos Health and similar) is the explicit target; the portfolio is built around that thesis. Email **lorienslibrary@gmail.com**.
+> **Currently seeking software engineering / applied AI / AI safety roles** — full-time, remote-first, with healthcare AI as the explicit target. Email **lorienslibrary@gmail.com**.
 
 ---
 
