@@ -8,7 +8,9 @@ Independent AI safety research and applied systems by **Angela Reinhold** — fo
 
 [Website](https://lorienslibrary.netlify.app) · [ORCID 0009-0005-5803-8401](https://orcid.org/0009-0005-5803-8401) · [Dataset on HuggingFace](https://huggingface.co/datasets/LoriensLibrary/cama-continuity-burden) · [Live prototype](https://telos-kalos.vercel.app)
 
-> **Hiring manager? Start with [Telos_kalos](https://github.com/LoriensLibrary/Telos_kalos)** — a deployed React 19 + TypeScript app with a Hono + Neon Postgres backend, live Claude API integration, and 41 tests in CI. [Live demo →](https://telos-kalos.vercel.app)
+> **Hiring manager? Start with [Telos_kalos](https://github.com/LoriensLibrary/Telos_kalos)** — a deployed React 19 + TypeScript app with a Hono + Neon Postgres backend, live Claude API integration, and 42 tests in CI. [Live demo →](https://telos-kalos.vercel.app)
+>
+> **Currently seeking senior engineering / AI safety roles** — full-time, remote-first. Healthcare AI (Kalos Health and similar) is the explicit target; the portfolio is built around that thesis. Email **lorienslibrary@gmail.com**.
 
 ---
 
@@ -24,7 +26,7 @@ You care about the papers and the theory.
 
 ### Builder
 You want to see working code.
-- **[Telos · for Kalos](https://github.com/LoriensLibrary/Telos_kalos)** — full-stack React 19 + TypeScript + Vite app with a Hono + Drizzle + Neon Postgres backend, live Claude API integration, and a CAMA Proof Layer demonstrating end-to-end provenance trace. 41 tests across 6 suites in CI. [Live demo](https://telos-kalos.vercel.app).
+- **[Telos · for Kalos](https://github.com/LoriensLibrary/Telos_kalos)** — full-stack React 19 + TypeScript + Vite app with a Hono + Drizzle + Neon Postgres backend, live Claude API integration, and a CAMA Proof Layer demonstrating end-to-end provenance trace. 42 tests across 6 suites in CI. [Live demo](https://telos-kalos.vercel.app).
 - **[cama](https://github.com/LoriensLibrary/cama)** — Python MCP server implementing the memory architecture. 34 core tools plus 9 optional subsystems. 15-test pytest suite in CI. Single-participant operational deployment (~53,000 memories on the author's instance).
 - **[CAMA Continuity Burden Dataset](https://huggingface.co/datasets/LoriensLibrary/cama-continuity-burden)** — 66,380 messages, 825 conversations, aggregate stats only (raw corpus not released).
 
@@ -36,7 +38,7 @@ You're evaluating this for a health-tech context (Kalos, Function Health, etc.).
 
 ### Collaborator / hiring manager
 Fastest path to evaluate the work:
-1. **[Telos_kalos](https://github.com/LoriensLibrary/Telos_kalos)** — deployed React 19 + TypeScript + Vite app with Hono + Neon Postgres backend and live Claude API integration. 41 tests in CI. [Live demo](https://telos-kalos.vercel.app).
+1. **[Telos_kalos](https://github.com/LoriensLibrary/Telos_kalos)** — deployed React 19 + TypeScript + Vite app with Hono + Neon Postgres backend and live Claude API integration. 42 tests in CI. [Live demo](https://telos-kalos.vercel.app).
 2. **[cama](https://github.com/LoriensLibrary/cama)** — Python MCP server, schema enforces provenance discipline, 15-test pytest suite in CI.
 3. **[Project-Companion](https://github.com/LoriensLibrary/Project-Companion)** — design prototype showing CAMA architecture applied to K-12 (UI only; backend integration is roadmap).
 4. *Optional context:* the [website](https://lorienslibrary.netlify.app), the [index repo](https://github.com/LoriensLibrary/Loriens_Library), or Paper 1 / Paper 7 from the [research map](https://github.com/LoriensLibrary/Loriens_Library).
@@ -50,7 +52,7 @@ Contact: **lorienslibrary@gmail.com**.
 ## Repositories
 
 - **[Loriens_Library](https://github.com/LoriensLibrary/Loriens_Library)** — Index repo. Architecture overview, full preprint list, links to everything else. Start here if you're new.
-- **[cama](https://github.com/LoriensLibrary/cama)** — The platform. Circular Associative Memory Architecture: provenance-aware three-layer persistent memory for human–AI interaction. Running in production.
+- **[cama](https://github.com/LoriensLibrary/cama)** — The platform. Circular Associative Memory Architecture: provenance-aware three-layer persistent memory for human–AI interaction. Single-participant operational research deployment (~53,000 memories on the author's instance).
 - **[Telos_kalos](https://github.com/LoriensLibrary/Telos_kalos)** — Portfolio prototype built for a job application at Kalos Health. Live, deployed, tested. Demonstrates CAMA principles in a health-coaching context.
 - **[Project-Companion](https://github.com/LoriensLibrary/Project-Companion)** — K–12 education vertical. Design-stage UI prototype (no backend yet); CAMA integration is roadmap.
 
@@ -87,6 +89,8 @@ Independent AI safety researcher. Founder of Lorien's Library LLC. Computer scie
 - **Email:** lorienslibrary@gmail.com
 - **Website:** [lorienslibrary.netlify.app](https://lorienslibrary.netlify.app)
 - **ORCID:** [0009-0005-5803-8401](https://orcid.org/0009-0005-5803-8401)
+
+<sub>*Repos live under this **LoriensLibrary** account (the public face of Lorien's Library LLC); individual commits are authored by **CyberDaVincii**, my developer identity on the same email — same person, different hat.*</sub>
 
 ---
 
