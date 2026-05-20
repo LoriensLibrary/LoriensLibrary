@@ -27,7 +27,7 @@ You care about the papers and the theory.
 ### Builder
 You want to see working code.
 - **[Telos · for Kalos](https://github.com/LoriensLibrary/Telos_kalos)** — full-stack React 19 + TypeScript + Vite app with a Hono + Drizzle + Neon Postgres backend, live Claude API integration, and a CAMA Proof Layer demonstrating end-to-end provenance trace. 42 tests across 6 suites in CI. [Live demo](https://telos-kalos.vercel.app).
-- **[cama](https://github.com/LoriensLibrary/cama)** — Python MCP server implementing the memory architecture. 34 core tools plus 9 optional subsystems. 15-test pytest suite in CI. Single-participant operational deployment (~53,000 memories on the author's instance).
+- **[cama](https://github.com/LoriensLibrary/cama)** — Python MCP server implementing the memory architecture. 34 core tools plus 9 optional subsystems on the single-participant side; eight-layer multi-tenant generalization (dyad / hive / persona / agent / quad / surface / consult / resources) with 187 tests in CI. Single-participant operational deployment (~53,000 memories on the author's instance). `v0.1.0` tagged.
 - **[CAMA Continuity Burden Dataset](https://huggingface.co/datasets/LoriensLibrary/cama-continuity-burden)** — 66,380 messages, 825 conversations, aggregate stats only (raw corpus not released).
 
 ### Healthcare-AI reviewer
@@ -39,7 +39,7 @@ You're evaluating this for a health-tech context (Kalos, Function Health, etc.).
 ### Collaborator / hiring manager
 Fastest path to evaluate the work:
 1. **[Telos_kalos](https://github.com/LoriensLibrary/Telos_kalos)** — deployed React 19 + TypeScript + Vite app with Hono + Neon Postgres backend and live Claude API integration. 42 tests in CI. [Live demo](https://telos-kalos.vercel.app).
-2. **[cama](https://github.com/LoriensLibrary/cama)** — Python MCP server, schema enforces provenance discipline, 15-test pytest suite in CI.
+2. **[cama](https://github.com/LoriensLibrary/cama)** — Python MCP server + eight-layer multi-tenant architecture. Schema enforces provenance discipline. 187 tests in CI. `v0.1.0` tagged.
 3. **[Project-Companion](https://github.com/LoriensLibrary/Project-Companion)** — design prototype showing CAMA architecture applied to K-12 (UI only; backend integration is roadmap).
 4. *Optional context:* the [website](https://lorienslibrary.netlify.app), the [index repo](https://github.com/LoriensLibrary/Loriens_Library), or Paper 1 / Paper 7 from the [research map](https://github.com/LoriensLibrary/Loriens_Library).
 
