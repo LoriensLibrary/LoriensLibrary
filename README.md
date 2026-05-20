@@ -49,6 +49,18 @@ Contact: **lorienslibrary@gmail.com**.
 
 ---
 
+## What's real
+
+| Artifact | Evidence | Status |
+|---|---|---|
+| **CAMA** | Eight-layer multi-tenant architecture · 187 tests in CI · 27-subtest safety benchmark (100% pass) · Docker quickstart · [DATA_HANDLING.md](https://github.com/LoriensLibrary/cama/blob/main/DATA_HANDLING.md) · [SECURITY.md](https://github.com/LoriensLibrary/cama/blob/main/SECURITY.md) · [`v0.1.0`](https://github.com/LoriensLibrary/cama/releases/tag/v0.1.0) tagged | Operational research deployment (single-participant); multi-tenant code shipped |
+| **Telos · for Kalos** | [Live Vercel demo](https://telos-kalos.vercel.app) · React 19 + TS + Vite + Vercel · `@anthropic-ai/sdk` + `hono` + `drizzle-orm` + `@neondatabase/serverless` in `package.json` · `api/draft-message.ts` calls Claude Haiku 4.5 · 42 tests across 6 suites · [`v0.1.0`](https://github.com/LoriensLibrary/Telos_kalos/releases/tag/v0.1.0) tagged | Working applicant prototype |
+| **Project-Companion** | UI prototype (student / teacher / parent dashboards) · MVP CAMA read tile via `useCamaMemory` · MOCK TUTOR MODE default (no live AI calls without explicit developer opt-in) | Design prototype; backend proxy + COPPA consent + CAMA write integration are explicit roadmap |
+| **Continuity Burden Dataset** | [HuggingFace dataset](https://huggingface.co/datasets/LoriensLibrary/cama-continuity-burden) · 66,380 messages · 825 conversations · aggregate statistics only | Published; raw corpus intentionally not released |
+| **Preprints** | [11 DOI-registered papers](https://orcid.org/0009-0005-5803-8401) on Zenodo · ORCID 0009-0005-5803-8401 | Published Mar–Apr 2026 |
+
+---
+
 ## Repositories
 
 - **[Loriens_Library](https://github.com/LoriensLibrary/Loriens_Library)** — Index repo. Architecture overview, full preprint list, links to everything else. Start here if you're new.
