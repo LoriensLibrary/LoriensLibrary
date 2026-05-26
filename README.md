@@ -2,7 +2,7 @@
 
 > **Persistent memory is not a feature. It is safety infrastructure.**
 
-Independent AI safety research and applied systems by **Angela Reinhold** — founder of Lorien's Library LLC. Provenance-aware persistent memory for human–AI interaction. One operational research deployment, eleven DOI-registered preprints, a published aggregate-statistics dataset, and a live applied prototype.
+Independent AI safety research and applied systems by **Angela Reinhold**, founder of Lorien's Library LLC. Provenance-aware persistent memory for human–AI interaction. One operational research deployment, eleven DOI-registered preprints, a published aggregate-statistics dataset, and a live applied prototype.
 
 ---
 
@@ -23,6 +23,6 @@ Currently seeking software engineering / applied AI / AI safety roles. Full-time
 **ORCID:** [0009-0005-5803-8401](https://orcid.org/0009-0005-5803-8401)
 **Dataset:** [cama-continuity-burden](https://huggingface.co/datasets/LoriensLibrary/cama-continuity-burden) on HuggingFace
 
-<sub>*Repos live under this **LoriensLibrary** account (the public face of Lorien's Library LLC); individual commits are authored by **CyberDaVincii**, my developer identity on the same email — same person, different hat.*</sub>
+<sub>*Repos live under this **LoriensLibrary** account (the public face of Lorien's Library LLC); individual commits are authored by **CyberDaVincii**, my developer identity on the same email. Same person, different hat.*</sub>
 
 MIT licensed. © 2026 Lorien's Library LLC.
