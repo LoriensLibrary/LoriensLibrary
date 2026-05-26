@@ -16,7 +16,7 @@ The program index. Architecture overview, audience-routed entry points, full pre
 
 ---
 
-Currently seeking software engineering / applied AI / AI safety roles — full-time, remote-first, healthcare AI as the explicit target.
+Currently seeking software engineering / applied AI / AI safety roles. Full-time, remote-first, with healthcare AI as the explicit target.
 
 **Email:** lorienslibrary@gmail.com
 **Website:** [lorienslibrary.netlify.app](https://lorienslibrary.netlify.app)
