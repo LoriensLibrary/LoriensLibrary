@@ -6,10 +6,13 @@ Independent AI safety research and applied systems by **Angela Reinhold**, found
 
 ---
 
-## Two paths
+## Three paths
 
-**Hiring? → [Telos · for Kalos](https://github.com/LoriensLibrary/Telos_kalos)**
-Live deployed React 19 + TS app with a serverless Hono + Drizzle + Neon Claude-API route, CAMA Proof Layer, and 42 tests in CI. [Live demo →](https://telos-kalos.vercel.app)
+**Want the system? → [cama](https://github.com/LoriensLibrary/cama)**
+Circular Associative Memory Architecture. The running deployment the research is written from: emotionally indexed, provenance aware, MIT licensed, with a threat model, a security policy, and pytest + ruff in CI. [What it is for →](https://github.com/LoriensLibrary/cama/blob/main/MISSION.md)
+
+**Hiring? → [Telos](https://github.com/LoriensLibrary/Telos_kalos)**
+Live deployed React 19 + TS app with a serverless Hono + Drizzle + Neon Claude-API route, CAMA Proof Layer, and 44 tests in CI. [Live demo →](https://telos-kalos.vercel.app)
 
 **Reading the research? → [Loriens_Library](https://github.com/LoriensLibrary/Loriens_Library)**
 The program index. Architecture overview, audience-routed entry points, full preprint list, dataset link. Start there if you want the map.
